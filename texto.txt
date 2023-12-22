@@ -1,0 +1,12 @@
+mudança mensagem 201
+restaurante: mudança return função exibir menu
+mudança mensagem 207
+mudança mensagem 202
+mudança mensagem 401
+mudanca servidor cadastrar item instancia prato
+apaguei função verifica se esta cheia de servidor
+apaguei funçao esta cheia de restaurante
+mudança mensagem 204
+exclui codigo no cliente entre   'print(CODIGOS_SERVIDOR[resposta])' e 'while true'
+mudança na função realizar pedido de servidor
+mudança na chamada da função cadastrar em servidor
